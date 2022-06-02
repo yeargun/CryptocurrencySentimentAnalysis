@@ -1,3 +1,3 @@
 # CryptocurrencySentimentAnalysis
-Cryptocurrency crowd hype analysis based on Telegram chats
+  
 In this project our goal was to analyze the hype for different cryptocurrencies, using NLP techniques at messages inside crypto trading discussion platforms. By considering interaction rates and utilizing sentiment analysis, we will try to find out a correlation between the price change of an asset and how the community sees it. We are planning to focus on the top Telegram groups created for sharing trading signals and those officially created by crypto exchanges. As a further improvement, we may use data from different discussion platforms and make some platform-wise comparisons, too. Eventually we hope to create an indicator for trading using current movements in messaging platforms
